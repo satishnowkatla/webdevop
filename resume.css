@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+/*.achieve {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    background: rgb(13, 78, 116);
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(92, 241, 5, 0.959);
+}
+*/
+h1, h2, h3 {
+    color: #000000;
+    margin-bottom: 0px;
+}
+
+h1 {
+    text-align: left;
+    margin-bottom: 20px;
+}
+h2 {
+    text-align: left;
+    margin-bottom:0px;
+}
+
+p {
+    margin: 10px 0;
+}
+.pavan{
+    border-bottom: 8px solid black;
+    margin: 20px;
+    font-size: 25px;
+}
+.tanuku{
+    margin: 20px;
+}
+.achieve{
+    margin: 10px;
+}
+.skills{
+    margin: 20px;
+}
+.projects{
+    margin: 20px;
+}
+.hobbies{
+    margin: 20px;
+}
+.image {
+    width: 200px;
+    height: 160px;
+    background-image: url('https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-unknown-person-icon-avatar-question-png-image_4760937.png');
+    background-size: cover;
+    background-position: center; 
+    float: right;
+    opacity: 0.6;
+    border-radius: 20%;
+}
